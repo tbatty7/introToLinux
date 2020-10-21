@@ -1,0 +1,24 @@
+total 108
+-rw-rw-r-- 1 tim tim    70 Oct  6 20:51 basefile
+drwxrwxr-x 2 tim tim  4096 Oct 13 21:51 directory
+-rw-rw-r-- 1 tim tim   200 Oct  6 22:19 directory.tar.xz
+-rw-rw-r-- 1 tim tim    18 Oct 14 21:19 echofile
+-rw-rw-r-- 1 tim tim    72 Oct 16 22:42 file1
+-rw-rw-r-- 1 tim tim   545 Oct  6 23:41 file12
+-rw-rw-r-- 1 tim tim   545 Oct 16 00:06 file12aa
+-rw-rw-r-- 1 tim tim   124 Oct  5 21:46 file1.xz
+-rw-rw-r-- 1 tim tim    76 Oct 14 21:02 file2
+-rw-rw-r-- 1 tim tim    70 Oct  6 20:49 file2~
+-rw-rw-r-- 1 tim tim   136 Oct  6 23:31 file21
+-rw-rw-r-- 1 tim tim   142 Oct 14 21:15 file3
+-rw-rw-r-- 1 tim tim    60 Oct 16 22:26 file4
+-rw-rw-r-- 1 tim tim    60 Oct 16 22:27 file4b
+-rw-rw-r-- 1 tim tim   545 Oct 16 00:03 hiaa
+-rw-rw-r-- 1 tim tim   100 Oct  6 23:05 mycatfile
+drwxrwxr-x 3 tim tim  4096 Oct  6 22:20 mydir
+-rw-rw-r-- 1 tim tim    43 Oct  6 23:14 myfile
+-rw-rw-r-- 1 tim tim   131 Oct  2 23:38 myfile2
+-rwxrwxrwx 1 tim tim   128 Sep 26 22:55 myscript.sh
+-rw-rw-r-- 1 tim tim 20480 Oct  6 23:02 transfer.tar
+-rw-rw-r-- 1 tim tim    68 Oct 15 22:50 vinNumbers
+-rw-rw-r-- 1 tim tim   545 Oct 16 00:01 xaa
